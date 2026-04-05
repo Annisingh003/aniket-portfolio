@@ -103,19 +103,19 @@ const portfolioData = {
        role: "Event Coordinator", 
        organization: "Ram Navami Celebration", 
        description: 
-         "Managed planning and execution of cultural events ensuring smooth coordination.", 
+         "Spearheaded the planning and execution of cultural events, successfully managing a gathering of over 1000+ devotees. Responsible for end-to-end coordination, including food arrangements and crowd management, ensuring a smooth and organized experience for all participants.", 
      }, 
      { 
        role: "Volunteer", 
        organization: "Abhikalpan Techfest", 
        description: 
-         "Assisted in logistics, coordination, and participant management.", 
+         "Assisted in logistics, coordination, and participant management for Central India's premier technical fest.", 
      }, 
      { 
        role: "Volunteer", 
        organization: "Foundation Day (Student Senate)", 
        description: 
-         "Helped organize technical and cultural events.", 
+         "Played a key role in organizing technical and cultural events during the Institute's Foundation Day. Successfully managed and coordinated logistics for 500+ students and staff simultaneously, ensuring seamless execution of the program.", 
      }, 
    ], 
   
