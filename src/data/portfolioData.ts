@@ -109,7 +109,7 @@ const portfolioData = {
        role: "Volunteer", 
        organization: "Abhikalpan Techfest", 
        description: 
-         "Assisted in logistics, coordination, and participant management for Central India's premier technical fest.", 
+         "Assisted in logistics, coordination, and participant management for Central India's premier technical fest. Successfully managed diverse groups of participants, including external attendees from other institutions, ensuring all events and activities were conducted smoothly.", 
      }, 
      { 
        role: "Volunteer", 
