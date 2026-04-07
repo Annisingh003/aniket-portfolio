@@ -43,7 +43,6 @@ const MainContainer = ({ children }: PropsWithChildren) => {
             <Landing>{!isDesktopView && children}</Landing>
             <About />
             <WhatIDo />
-            <Career />
             <Work />
             {isDesktopView && (
               <Suspense fallback={<div>Loading....</div>}>
@@ -53,6 +52,7 @@ const MainContainer = ({ children }: PropsWithChildren) => {
             <Suspense fallback={<div>Loading Skills...</div>}>
               <SkillsSection />
             </Suspense>
+            <Career />
             <Suspense fallback={<div>Loading Certifications...</div>}>
               <CertificationsSection />
             </Suspense>
