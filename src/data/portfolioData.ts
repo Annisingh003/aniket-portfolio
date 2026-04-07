@@ -8,7 +8,7 @@ const portfolioData = {
   
    about: { 
      description: 
-       "I am a B.Tech student in Electronics and Communication Engineering at IIITDM Jabalpur with a CGPA of 8.4. I have a strong interest in full-stack development and software engineering. I enjoy building end-to-end applications, solving complex problems, and optimizing system performance. I have developed multiple production-ready projects and solved 400+ DSA problems across platforms.", 
+       "I am a B.Tech student in Electronics and Communication Engineering at IIITDM Jabalpur with a CGPA of 8.4. I have a strong foundation in Computer Science fundamentals, including Computer Networks, Object-Oriented Programming (OOPS), Database Management Systems (DBMS), and Operating Systems (OS). I enjoy building end-to-end applications, solving complex problems, and optimizing system performance. I have developed multiple production-ready projects and solved 400+ DSA problems across platforms.", 
    }, 
   
    education: [ 
@@ -124,6 +124,7 @@ const portfolioData = {
      phone: "+91-6393688279", 
      linkedin: "https://linkedin.com/in/aniket-pratap-singh-854b61293", 
      github: "https://github.com/Annisingh003", 
+     leetcode: "https://leetcode.com/u/ani_ps2004/",
    }, 
  }; 
   
