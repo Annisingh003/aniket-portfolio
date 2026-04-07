@@ -94,7 +94,7 @@ const portfolioData = {
      "Top 5% in Introduction to Internet of Things (SWAYAM)", 
      "Top 2% in Privacy and Security in Online Social Media", 
      "Solved 400+ DSA problems", 
-     "LeetCode Rating: 1685", 
+     "LeetCode Rating: 1708", 
      "CodeChef Rating: 1530", 
    ], 
   
